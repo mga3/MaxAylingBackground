@@ -1,1 +1,11 @@
 # MaxAylingBackground
+- Maximilian Ayling MPhys
+- [LinkedIn](https://www.linkedin.com/in/max-ayling-b46066178)
+- University of St. Andrews Graduand
+- 1<sup>st</sup> class honours - Dean's List Award for Academic Excellence
+- Published paper in the Cambridge Journal of Plasma Physics - https://doi.org/10.1017/S002237782000046X
+- Interested in:
+  - Solar Theory and MHD application
+  -  Mathematical Oncology
+  -  Data Visualisation
+- You can reach me through LinkedIn
